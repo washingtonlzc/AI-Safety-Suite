@@ -15,6 +15,10 @@ quality. It exercises your AI like a real user, scores every reply across multip
 and quality axes, and catches regressions before they ever reach a customer.
 
 **Built for teams that need confidence before deploying conversational AI.**
+> **Project Status**
+>
+> Actively developed and used in a production engineering environment to validate conversational AI systems before deployment.
+
 
 <br>
 
@@ -137,7 +141,10 @@ A simple, repeatable pipeline turns a test definition into actionable evidence:
 
 | Dashboard | Report |
 |:---:|:---:|
-| _coming soon_ | _coming soon_ |
+| <p align="center">
+  <img src="login-page.png" width="520" alt="AI Safety Suite">
+</p>
+| _coming soon_ |
 
 </div>
 
