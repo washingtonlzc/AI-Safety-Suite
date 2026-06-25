@@ -34,19 +34,6 @@ and quality axes, and catches regressions before they reach production.
 
 ---
 
-## Demo
-
-<div align="center">
-
-<!-- Replace with a short GIF of the platform in action:
-     test execution, live dashboard, results, findings backlog, and the generated report. -->
-
-_Demo coming soon — test execution, live dashboard, per-axis results, findings backlog, and the generated report._
-
-</div>
-
----
-
 ## Why AI Safety Suite?
 
 Shipping an LLM-powered assistant to production is risky. It can leak its system
