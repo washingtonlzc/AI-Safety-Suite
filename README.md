@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="docs/logo.png" width="220" alt="AI Safety Suite">
+  <img src="Ai-Safety-Suit-logo.png" width="520" alt="AI Safety Suite">
 </p>
 
 # AI Safety Suite
