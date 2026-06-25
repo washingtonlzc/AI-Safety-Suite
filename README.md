@@ -12,11 +12,11 @@
 Automated platform for validating conversational AI systems **before production** —
 testing security, grounding, business rules, prompt-injection resistance, and response
 quality. It exercises your AI like a real user, scores every reply across multiple safety
-and quality axes, and catches regressions before they ever reach a customer.
+and quality axes, and catches regressions before they reach production.
 
 **Built for teams that need confidence before deploying conversational AI.**
 > **Project Status**
->
+> 
 > Actively developed and used in a production engineering environment to validate conversational AI systems before deployment.
 
 
@@ -136,15 +136,9 @@ A simple, repeatable pipeline turns a test definition into actionable evidence:
 
 <div align="center">
 
-<!-- Add real screenshots here: dashboard, live conversation, per-axis analysis,
-     findings backlog, and the executive report. -->
+<img src="login-page.png" width="520" alt="AI Safety Suite — secure access screen">
 
-| Dashboard | Report |
-|:---:|:---:|
-| <p align="center">
-  <img src="login-page.png" width="520" alt="AI Safety Suite">
-</p>
-| _coming soon_ |
+_Authentication screen for secure access to the AI Safety Suite platform._
 
 </div>
 
